@@ -1,0 +1,1 @@
+const dev1 = "tui code cn dev 1 o day n"
