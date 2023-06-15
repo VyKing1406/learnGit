@@ -1,2 +1,3 @@
 const t = "tui testcode"
-const dev3 = "tui code them dev3 ne"
+const dev2 = "tui code them dev2 ne"
+const dev1 = "Tui code cn 1 ne"
